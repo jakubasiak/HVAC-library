@@ -1,0 +1,9 @@
+C:\Users\kubak\OneDrive\dokumenty\visual studio 2017\Projects\HVAC\HVAC\bin\Debug\HVAC.dll
+C:\Users\kubak\OneDrive\dokumenty\visual studio 2017\Projects\HVAC\HVAC\bin\Debug\HVAC.pdb
+C:\Users\kubak\OneDrive\dokumenty\visual studio 2017\Projects\HVAC\HVAC\obj\Debug\HVAC.dll
+C:\Users\kubak\OneDrive\dokumenty\visual studio 2017\Projects\HVAC\HVAC\obj\Debug\HVAC.pdb
+G:\VS\Projects\HVAC\HVAC\bin\Debug\HVAC.dll
+G:\VS\Projects\HVAC\HVAC\bin\Debug\HVAC.pdb
+G:\VS\Projects\HVAC\HVAC\obj\Debug\HVAC.dll
+G:\VS\Projects\HVAC\HVAC\obj\Debug\HVAC.pdb
+G:\VS\Projects\HVAC\HVAC\obj\Debug\HVAC.csprojResolveAssemblyReference.cache

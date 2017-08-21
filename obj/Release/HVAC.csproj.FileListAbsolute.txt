@@ -1,0 +1,4 @@
+C:\Users\kubak\OneDrive\dokumenty\visual studio 2017\Projects\HVAC\HVAC\bin\Release\HVAC.dll
+C:\Users\kubak\OneDrive\dokumenty\visual studio 2017\Projects\HVAC\HVAC\bin\Release\HVAC.pdb
+C:\Users\kubak\OneDrive\dokumenty\visual studio 2017\Projects\HVAC\HVAC\obj\Release\HVAC.dll
+C:\Users\kubak\OneDrive\dokumenty\visual studio 2017\Projects\HVAC\HVAC\obj\Release\HVAC.pdb
